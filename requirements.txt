@@ -9,6 +9,7 @@ decorator==5.1.1
 executing==2.0.1
 fastjsonschema==2.19.1
 fonttools==4.50.0
+graphviz==0.20.3
 ipykernel==6.29.4
 ipython==8.23.0
 jedi==0.19.1
@@ -59,3 +60,4 @@ typing_extensions==4.10.0
 tzdata==2024.1
 wcwidth==0.2.13
 wordcloud==1.9.3
+wordtree==0.1.0
